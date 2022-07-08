@@ -17,8 +17,8 @@
 
 ```
 
-![Pilih SDK](https://github.com/misrudin/tb_java_pengadaan_brg/demo_run/ss1.png?raw=true)
-![Download SDK](https://github.com/misrudin/tb_java_pengadaan_brg/demo_run/ss2.jpeg?raw=true)
+![Pilih SDK](https://github.com/misrudin/tb_java_pengadaan_brg/blob/main/demo_run/ss1.png?raw=true)
+![Download SDK](https://github.com/misrudin/tb_java_pengadaan_brg/blob/main/demo_run/ss2.jpeg?raw=true)
 
 
 ```java
