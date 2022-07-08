@@ -7,6 +7,8 @@
 
 ```java
 
-  open Main class & click run in your IDE.
+  buka  src/com.elearning.tbalgo2/Main.java
+  Pada pojok kanan atas klik "Setup IDE" untuk memilih JDK
+  Klik "Run".
 
 ```
