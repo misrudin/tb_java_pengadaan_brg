@@ -21,16 +21,12 @@ public class Main {
         //dummy jenis
         Jenis jenis1 = new Jenis("JI1", "Makanan");
         Jenis jenis2 = new Jenis("JI2", "Minuman");
-        Jenis jenis3 = new Jenis("JI3", "Fashion");
         Models.listJenis.add(jenis1);
         Models.listJenis.add(jenis2);
-        Models.listJenis.add(jenis3);
         //dummy barang
         Barang barang1 = new Barang("BRG1", "Mie Goreng", "SA1", "JI1", 2500);
         barang1.setStok(10);
-        Barang barang2 = new Barang("BRG2", "Beras", "SA2", "JI1", 10000);
         Models.listBarang.add(barang1);
-        Models.listBarang.add(barang2);
         //dummy supplier
         Supplier supplier1 = new Supplier("SUP1", "Supplier 1", "Jl. Raya 1", "081234567891");
         Supplier supplier2 = new Supplier("SUP2", "Supplier 2", "Jl. Raya 2", "081234567892");
