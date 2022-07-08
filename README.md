@@ -4,7 +4,7 @@
 #### Author: [Misrudin](https://misrudin.github.io/portofolio/)
 #### Text Editor: [IntelliJ IDEA](https://www.jetbrains.com/idea/)
 
-### RUN
+### HOW TO RUN ?
 
 ```java
 
@@ -18,10 +18,10 @@
 
 ```
 
-###Pilih SDK
+###Pilih SDK <br />
 ![Pilih SDK](https://github.com/misrudin/tb_java_pengadaan_brg/blob/main/demo_run/ss1.webp?raw=true)
 
-###Download SDK
+###Download SDK <br />
 ![Download SDK](https://github.com/misrudin/tb_java_pengadaan_brg/blob/main/demo_run/ss2.webp?raw=true)
 
 
@@ -31,5 +31,5 @@
 
 ```
 
-###Run Main
+###Run Main <br />
 ![Run Main](https://github.com/misrudin/tb_java_pengadaan_brg/blob/main/demo_run/ss3.webp?raw=true)
