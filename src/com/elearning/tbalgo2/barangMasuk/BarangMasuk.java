@@ -21,24 +21,12 @@ public class BarangMasuk {
         return id;
     }
 
-    public void setId(String id) {
-        this.id = id;
-    }
-
     public String getIdBarang() {
         return idBarang;
     }
 
-    public void setIdBarang(String idBarang) {
-        this.idBarang = idBarang;
-    }
-
     public String getIdSupplier() {
         return idSupplier;
-    }
-
-    public void setIdSupplier(String idSupplier) {
-        this.idSupplier = idSupplier;
     }
 
     public int getQuantity() {

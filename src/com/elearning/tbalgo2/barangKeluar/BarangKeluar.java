@@ -19,16 +19,8 @@ public class BarangKeluar {
         return id;
     }
 
-    public void setId(String id) {
-        this.id = id;
-    }
-
     public String getIdBarang() {
         return idBarang;
-    }
-
-    public void setIdBarang(String idBarang) {
-        this.idBarang = idBarang;
     }
 
     public String getCreated_at() {

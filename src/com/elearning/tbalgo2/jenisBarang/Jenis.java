@@ -14,10 +14,6 @@ public class Jenis {
         return id;
     }
 
-    public void setId(String id) {
-        this.id = id;
-    }
-
     public String getNama() {
         return nama;
     }

@@ -1,7 +1,5 @@
 package com.elearning.tbalgo2.satuanBarang;
 
-import java.util.Objects;
-
 public class Satuan {
     private String id;
     private String nama;
@@ -14,10 +12,6 @@ public class Satuan {
 
     public String getId() {
         return id;
-    }
-
-    public void setId(String id) {
-        this.id = id;
     }
 
     public String getNama() {
